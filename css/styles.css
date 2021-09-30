@@ -459,7 +459,7 @@ body {
 
 .site-contact:hover,
 .site-contact:focus {
-    background-color: var(--accent-text-color);
+    color: var(--accent-text-color);
 }
 
 .site-contacts-point:not(:last-child) {
